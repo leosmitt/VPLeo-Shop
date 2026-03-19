@@ -104,4 +104,4 @@ This project is open-source and available under the [MIT License](https://openso
 
 ---
 
-**Author**: Manus AI
+**Author**: Leo Smitt
