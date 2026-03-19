@@ -34,7 +34,7 @@ jobs:
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
-          apiToken: cfut_U1BxrAbl9qCltZMUH9kvwBQpT36ma3Enn4YKzmTD634180ea
+          apiToken: cfut_6Mvo9FBnLJYPNKCrskYIBUOrNo3ZRDOSaTSARXgC6eab8b40
           accountId: 5b29bce3b2061f8210c013f2bc67470a
           projectName: 'vpleo-shop' # Your Cloudflare Pages project name
           directory: 'out' # The directory where your build output is located
